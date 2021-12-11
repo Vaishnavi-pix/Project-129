@@ -1,0 +1,36 @@
+.header{
+    width:100%;
+box-shadow: yellow;
+background:linear-gradient(90deg, #ff6e6e, #f7ea97);
+font-size:30px;
+margin-top: 0px;
+text-align: center;
+color: white;
+line-height: 1.5;
+box-shadow: 5px 5px 15px lightsalmon;
+}
+canvas{
+    border:2px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightgray;
+    margin-top: 110px;
+}
+.play{
+    width:130px;
+    height: 40px;
+    background:linear-gradient(90deg, #aeedf2,#ceaef2);
+    font-size:18px;
+    border:1px solid black;
+    color:black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px lightgray;
+}
+body{
+    position:relative;
+    background-position: center;
+    background-size: cover;
+}
+#note{
+    font-size: 18px;
+}
+
